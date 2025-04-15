@@ -80,7 +80,7 @@ Check out the main project here:
 
 Developed and maintained by [Akii017](https://github.com/Akii017)
 
-Feel free to open issues or pull requests if you have improvements or questions!
+
 ```
 
-Let me know if you'd like a version with badges, GitHub actions support, or download links using `gdown` or Hugging Face!
+
