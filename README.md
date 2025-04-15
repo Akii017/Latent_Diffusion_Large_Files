@@ -12,7 +12,7 @@ Due to GitHub LFS storage and bandwidth limitations, these files are hosted here
 
 ## 📦 Repository Contents
 
-
+```plaintext
 Latent_Diffusion_Large_Files/
 ├── sd_checkpoints/
 │   └── sd-v1-5/
