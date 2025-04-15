@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Latent Diffusion Large Files Repository
 
 This repository contains large model checkpoints and weight files required for the main research project:  
@@ -12,7 +12,7 @@ Due to GitHub LFS storage and bandwidth limitations, these files are hosted here
 
 ## 📦 Repository Contents
 
-```plaintext
+
 Latent_Diffusion_Large_Files/
 ├── sd_checkpoints/
 │   └── sd-v1-5/
@@ -24,7 +24,7 @@ Latent_Diffusion_Large_Files/
 │   ├── control_v11p_sd15_canny.pth
 │   └── ...
 └── README.md
-```
+
 
 ---
 
