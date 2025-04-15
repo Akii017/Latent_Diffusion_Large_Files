@@ -1,6 +1,6 @@
 
 
-
+```
 # Latent Diffusion Large Files Repository
 
 This repository contains large model checkpoints and weight files required for the main research project:  
@@ -24,7 +24,7 @@ Latent_Diffusion_Large_Files/
 │   ├── control_v11p_sd15_canny.pth
 │   └── ...
 └── README.md
-
+```
 
 ---
 
