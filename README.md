@@ -1,4 +1,4 @@
-Here's a complete `README.md` for your **Latent_Diffusion_Large_Files** repository, formatted for clarity, usability, and professionalism on GitHub:
+
 
 ```markdown
 # Latent Diffusion Large Files Repository
